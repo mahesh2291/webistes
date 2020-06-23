@@ -1,0 +1,82 @@
+.top-container {
+    background-image: url('images/bg-header-desktop.png');
+   text-align: center;
+ margin-top: 0px;
+ padding-top: 100px;
+ line-height: 2;
+ margin-right: 0px;
+}
+
+
+.head-icon {
+    padding-bottom: 50px;
+    color: lightseagreen;
+}
+
+.head1 {
+      font-weight: bold;
+      font-family: 'Times New Roman', Times, serif;
+      font-size: 50px;
+}
+
+.p1 {
+    color: lightslategray;
+}
+
+.b1:hover {
+    color: black;
+}
+
+.b2:hover {
+    color: black;
+}
+
+.middle1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+.r1{
+    padding-top: 20px;
+}
+
+.f1 {
+    padding-top: 70px;
+}
+
+body {
+    border-right-width: 0px;
+    border-style: hidden;
+}
+
+.middle2 {
+    padding-top: 40px;
+}
+
+.img3 {
+    padding-top: 20px;
+}
+ 
+.middlelast {
+    align-content: center;
+    text-align: center;
+    padding: 0px 70px;
+   
+}
+
+.im1 {
+    padding: 50px;
+}
+
+
+.r2 {
+    padding-top: 30px;
+}
+
+
+

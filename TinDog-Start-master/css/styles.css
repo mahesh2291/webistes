@@ -1,0 +1,178 @@
+#title {
+    background-color: #ff4c68;
+    color: white;
+}
+
+
+h1 {
+    font-family: Montserrat-Black;
+    size: 4rem;
+    line-height: 1.5;
+    font-weight: bold;
+    
+}
+
+
+.container-fluid {
+    padding-top: 3%;
+    padding-right: 15%;
+    padding-left: 15%;
+    padding-bottom: 15%;
+}
+
+body {
+    font-family: Montserrat-Black;
+    
+}
+
+.navbar-brand {
+    font-family: ubuntu;
+    font-weight: bold;
+
+}
+
+.row {
+    padding-top: 3px;
+}
+
+.nav-item {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.nav-link {
+    font-family: Montserrat-light;
+    font-size: 1.2rem;
+}
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.btn {
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+
+.title-img {
+    width: 60%;
+    transform: rotate(25deg);
+    margin-left: 25%;
+    position: absolute;
+}
+
+
+#features {
+padding: 7% 15%;
+background-color: white;
+position: relative;
+z-index: 1;
+}
+
+
+
+h3 {
+    font-family: "Montserrat-Bold";
+    font-size: 1.5rem;
+}
+
+p {
+    color: #8f8f8f;
+}
+
+
+.feature-box {
+    text-align: center;
+}
+
+.f1 {
+    color: orange;
+    margin-bottom: 1rem;
+}
+
+.f1:hover {
+    color: #ff4c68;
+}
+
+#testimonials {
+    padding:7% 15%;
+    
+    background-color:orange ;
+    color: #fff;
+}
+
+h2 {
+    font-family: "Montserrat-Bold";
+    font-size: 40px;
+}
+
+
+.testimonial-img {
+    width: 150px;
+    border-radius: 100%;
+    margin: 20px;
+
+}
+
+#press {
+    background-color:orange ;
+
+    padding-bottom: 10%;
+
+}
+
+.presslogo {
+    margin: 20px 20px;
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+
+.row1 {
+    padding: 50px 70px;
+}
+
+#pricing {
+    
+    padding-top: 30px;
+}
+
+.card-header {
+    background-color: lightblue;
+}
+
+
+#features {
+    background-color: white;
+}
+
+
+@media (max-width:1020px) {
+    .title-img {
+        position: static;
+        transform: rotate(0);
+        padding-top: 30px;
+    }
+}
+
+#cta {
+    background-color: #ff4c68 ;
+
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: "Montserrat-Black";
+    size: 4rem;
+    color: white;
+    
+}
+
+#footer {
+    
+    padding-top: 30px;
+}
+
+.foot1 {
+    padding: 10px 10px;
+}
